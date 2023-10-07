@@ -1,6 +1,10 @@
 var searchData=
 [
-  ['main_0',['main',['../_c_make_c_compiler_id_8c.html#a0ddf1224851353fc92bfbff6f499fa97',1,'main(int argc, char *argv[]):&#160;CMakeCCompilerId.c'],['../main_8c.html#ae66f6b31b5ad750f1fe042a706a4e3d4',1,'main():&#160;main.c']]],
-  ['make_5fhuffman_5ftree_1',['make_huffman_tree',['../input__process_8c.html#a9c32e2ea5cf79eea585315c8d504c88e',1,'make_huffman_tree(linked_list_t **linked_list):&#160;input_process.c'],['../input__process_8h.html#a9c32e2ea5cf79eea585315c8d504c88e',1,'make_huffman_tree(linked_list_t **linked_list):&#160;input_process.c']]],
-  ['make_5fpreorder_5fdictionary_2',['make_preorder_dictionary',['../input__process_8c.html#a82e73470423aa1f34b83b4e286d2c57d',1,'make_preorder_dictionary(linked_list_t **linked_list, unsigned long ***dictionary, char **pre_order_tree, unsigned int binary_word):&#160;input_process.c'],['../input__process_8h.html#a82e73470423aa1f34b83b4e286d2c57d',1,'make_preorder_dictionary(linked_list_t **linked_list, unsigned long ***dictionary, char **pre_order_tree, unsigned int binary_word):&#160;input_process.c']]]
+  ['inicializar_5fsuite_0',['inicializar_suite',['../_c_unit-tests_2main_8c.html#a8df2677bd5fb1e38e1e326861c761341',1,'main.c']]],
+  ['insert_5fbyte_1',['insert_byte',['../_c_unit-tests_2main_8c.html#afd6f8d7d56879edc47b256496e3aaee1',1,'main.c']]],
+  ['insert_5fbyte_5ffrequency_5fat_5fbeginning_2',['insert_byte_frequency_at_beginning',['../common_8c.html#ab66bd44713fa20888801fbe938daa7b1',1,'insert_byte_frequency_at_beginning(linked_list_t **head, const unsigned char *byte, unsigned long frequency):&#160;common.c'],['../common_8h.html#ab66bd44713fa20888801fbe938daa7b1',1,'insert_byte_frequency_at_beginning(linked_list_t **head, const unsigned char *byte, unsigned long frequency):&#160;common.c']]],
+  ['insert_5fin_5ftree_3',['insert_in_tree',['../_arvore-2-3-4_2main_8c.html#a0ecc9faa502ec844bcbbbfdd61725ebe',1,'main.c']]],
+  ['insert_5fordered_4',['insert_ordered',['../_c_unit-tests_2main_8c.html#aeea129569ed2796df243a858945882cb',1,'main.c']]],
+  ['insert_5fordered_5fin_5flinked_5flist_5',['insert_ordered_in_linked_list',['../common_8c.html#abd4b8cdc1a3d5c1e6524fd09a9564ead',1,'insert_ordered_in_linked_list(linked_list_t **linked_list, linked_list_t *new_node):&#160;common.c'],['../common_8h.html#abd4b8cdc1a3d5c1e6524fd09a9564ead',1,'insert_ordered_in_linked_list(linked_list_t **linked_list, linked_list_t *new_node):&#160;common.c']]],
+  ['is_5fnull_6',['is_null',['../_arvore-2-3-4_2main_8c.html#a0ebc7bb9f405dbff471afdb8b1127865',1,'main.c']]]
 ];

@@ -24,34 +24,43 @@
 */
 var NAVTREE =
 [
-  [ "GZIP", "index.html", [
-    [ "Compactador de arquivos GZIP", "md__c_1_2_users_2_pedro_2_c_lion_projects_2_g_z_i_p___v1_2_r_e_a_d_m_e.html", [
-      [ "Índice", "md__c_1_2_users_2_pedro_2_c_lion_projects_2_g_z_i_p___v1_2_r_e_a_d_m_e.html#autotoc_md1", null ],
-      [ "Visão Geral", "md__c_1_2_users_2_pedro_2_c_lion_projects_2_g_z_i_p___v1_2_r_e_a_d_m_e.html#autotoc_md2", null ],
-      [ "Requisitos", "md__c_1_2_users_2_pedro_2_c_lion_projects_2_g_z_i_p___v1_2_r_e_a_d_m_e.html#autotoc_md3", null ],
-      [ "Instalação", "md__c_1_2_users_2_pedro_2_c_lion_projects_2_g_z_i_p___v1_2_r_e_a_d_m_e.html#autotoc_md4", null ],
-      [ "Uso", "md__c_1_2_users_2_pedro_2_c_lion_projects_2_g_z_i_p___v1_2_r_e_a_d_m_e.html#autotoc_md5", null ],
-      [ "Contribuição", "md__c_1_2_users_2_pedro_2_c_lion_projects_2_g_z_i_p___v1_2_r_e_a_d_m_e.html#autotoc_md6", null ],
-      [ "Licença", "md__c_1_2_users_2_pedro_2_c_lion_projects_2_g_z_i_p___v1_2_r_e_a_d_m_e.html#autotoc_md7", null ]
-    ] ],
-    [ "Data Structures", "annotated.html", [
-      [ "Data Structures", "annotated.html", "annotated_dup" ],
-      [ "Data Structure Index", "classes.html", null ],
-      [ "Data Fields", "functions.html", [
-        [ "All", "functions.html", null ],
-        [ "Variables", "functions_vars.html", null ]
+  [ "Documentação: GZIP Huffman", "index.html", [
+    [ "README", "md__c_1_2_users_2_pedro_2_c_lion_projects_2_g_z_i_p___v1_2_r_e_a_d_m_e.html", [
+      [ "Compactador de arquivos GZIP", "md__c_1_2_users_2_pedro_2_c_lion_projects_2_g_z_i_p___v1_2_r_e_a_d_m_e.html#autotoc_md0", [
+        [ "Índice", "md__c_1_2_users_2_pedro_2_c_lion_projects_2_g_z_i_p___v1_2_r_e_a_d_m_e.html#autotoc_md2", null ],
+        [ "- @ref \"contribuição\" \"Contribuição\"", "md__c_1_2_users_2_pedro_2_c_lion_projects_2_g_z_i_p___v1_2_r_e_a_d_m_e.html#autotoc_md3", null ],
+        [ "Visão Geral", "md__c_1_2_users_2_pedro_2_c_lion_projects_2_g_z_i_p___v1_2_r_e_a_d_m_e.html#autotoc_md4", null ],
+        [ "Requisitos", "md__c_1_2_users_2_pedro_2_c_lion_projects_2_g_z_i_p___v1_2_r_e_a_d_m_e.html#autotoc_md5", null ],
+        [ "Instalação", "md__c_1_2_users_2_pedro_2_c_lion_projects_2_g_z_i_p___v1_2_r_e_a_d_m_e.html#autotoc_md6", [
+          [ "Instalação rápida CUnit", "md__c_1_2_users_2_pedro_2_c_lion_projects_2_g_z_i_p___v1_2_r_e_a_d_m_e.html#autotoc_md7", null ],
+          [ "Compilação e execução", "md__c_1_2_users_2_pedro_2_c_lion_projects_2_g_z_i_p___v1_2_r_e_a_d_m_e.html#autotoc_md8", [
+            [ "GZIP Huffman:", "md__c_1_2_users_2_pedro_2_c_lion_projects_2_g_z_i_p___v1_2_r_e_a_d_m_e.html#autotoc_md9", null ],
+            [ "CUnit testes:", "md__c_1_2_users_2_pedro_2_c_lion_projects_2_g_z_i_p___v1_2_r_e_a_d_m_e.html#autotoc_md10", null ],
+            [ "Contagem e plotagem:", "md__c_1_2_users_2_pedro_2_c_lion_projects_2_g_z_i_p___v1_2_r_e_a_d_m_e.html#autotoc_md11", null ]
+          ] ]
+        ] ],
+        [ "Uso GZIP Huffman", "md__c_1_2_users_2_pedro_2_c_lion_projects_2_g_z_i_p___v1_2_r_e_a_d_m_e.html#autotoc_md12", null ],
+        [ "Contribuição", "md__c_1_2_users_2_pedro_2_c_lion_projects_2_g_z_i_p___v1_2_r_e_a_d_m_e.html#autotoc_md13", null ]
       ] ]
     ] ],
-    [ "Files", "files.html", [
-      [ "File List", "files.html", "files_dup" ],
-      [ "Globals", "globals.html", [
-        [ "All", "globals.html", null ],
-        [ "Functions", "globals_func.html", null ],
-        [ "Variables", "globals_vars.html", null ],
-        [ "Typedefs", "globals_type.html", null ],
-        [ "Enumerations", "globals_enum.html", null ],
-        [ "Enumerator", "globals_eval.html", null ],
-        [ "Macros", "globals_defs.html", null ]
+    [ "Estruturas de dados", "annotated.html", [
+      [ "Estruturas de Dados", "annotated.html", "annotated_dup" ],
+      [ "Índice das Estruturas de Dados", "classes.html", null ],
+      [ "Campos de Dados", "functions.html", [
+        [ "Todos", "functions.html", null ],
+        [ "Variáveis", "functions_vars.html", null ]
+      ] ]
+    ] ],
+    [ "Arquivos", "files.html", [
+      [ "Lista de Arquivos", "files.html", "files_dup" ],
+      [ "Globais", "globals.html", [
+        [ "Todos", "globals.html", null ],
+        [ "Funções", "globals_func.html", null ],
+        [ "Variáveis", "globals_vars.html", null ],
+        [ "Definições de Tipos", "globals_type.html", null ],
+        [ "Enumerações", "globals_enum.html", null ],
+        [ "Enumeradores", "globals_eval.html", null ],
+        [ "Definições e Macros", "globals_defs.html", null ]
       ] ]
     ] ]
   ] ]
@@ -59,8 +68,8 @@ var NAVTREE =
 
 var NAVTREEINDEX =
 [
-"_c_make_c_compiler_id_8c.html"
+"_arvore-2-3-4_2main_8c.html"
 ];
 
-var SYNCONMSG = 'click to disable panel synchronisation';
-var SYNCOFFMSG = 'click to enable panel synchronisation';
+var SYNCONMSG = 'clique para desativar a sincronização do painel';
+var SYNCOFFMSG = 'clique para ativar a sincronização do painel';

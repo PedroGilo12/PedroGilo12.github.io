@@ -1,5 +1,4 @@
 var searchData=
 [
-  ['stringify_0',['STRINGIFY',['../_c_make_c_compiler_id_8c.html#a43e1cad902b6477bec893cb6430bd6c8',1,'CMakeCCompilerId.c']]],
-  ['stringify_5fhelper_1',['STRINGIFY_HELPER',['../_c_make_c_compiler_id_8c.html#a2ae9b72bb13abaabfcf2ee0ba7d3fa1d',1,'CMakeCCompilerId.c']]]
+  ['n_5fattempts_5fto_5fopen_5ffile_0',['N_ATTEMPTS_TO_OPEN_FILE',['../interface_8h.html#ad81266c8db7e1e65122304327baef435',1,'interface.h']]]
 ];

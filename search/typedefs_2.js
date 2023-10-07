@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['huffman_5ftree_5ft_0',['huffman_tree_t',['../common_8h.html#aa4512ec8646d0520a2765cec2d240fcb',1,'common.h']]]
+  ['file_5fheader_5ft_0',['file_header_t',['../extract__process_8h.html#ad0716343f279b8bcddc25a21b8d17f03',1,'extract_process.h']]]
 ];

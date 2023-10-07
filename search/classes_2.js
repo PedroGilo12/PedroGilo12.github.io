@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['linked_5flist_0',['linked_list',['../structlinked__list.html',1,'']]]
+  ['huffman_5ftree_0',['huffman_tree',['../structhuffman__tree.html',1,'']]]
 ];
